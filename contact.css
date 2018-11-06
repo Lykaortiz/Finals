@@ -1,0 +1,11 @@
+*
+body{
+	background-image: url(flowers.jpg);
+}
+table{
+	background-image: url(flowers.jpg);
+}
+strong{
+	color: black;
+	font-size: 10px;
+}
